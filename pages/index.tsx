@@ -11,7 +11,6 @@ export default function Home() {
         />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-
       <h1 className="text-3xl">
         Welcome to <span className="h-1 p-1 text-sky-800">Next Example</span>
       </h1>
